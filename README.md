@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo William Eizo Hatakeyama, tenho 23 anos e sou natural do Paraná. Atualmente, estou cursando Engenharia de software na Unifil e atuo como Analista de suporte técnico na empresa Solus Computação.
+Me chamo William Eizo Hatakeyama, tenho 24 anos e sou natural de Londrian, Paraná. Atualmente, estou cursando Engenharia de software na Unifil e atuo como Analista de suporte técnico na empresa Solus Computação.
 
 <p align="left"> 
     <a href="https://github.com/WillHatakeyama?tab=followers">
